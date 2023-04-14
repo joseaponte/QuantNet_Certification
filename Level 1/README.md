@@ -4,7 +4,7 @@
 
 ## C++ Environment
 
->-History of C++
+> - History of C++
 >-What Makes a C++ Program
 >-Steps for a C++ Program
 >-Compiling a C++ Program
