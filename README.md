@@ -4,7 +4,7 @@
 
 ## Goal
 
->>### Basic C/C++ Language and Syntax
+### Basic C/C++ Language and Syntax
 
 >>Data types, variables, operators and expressions, decisions and loops, functions and storage classes, the preprocessor, pointers and arrays, data aggregates.
 
